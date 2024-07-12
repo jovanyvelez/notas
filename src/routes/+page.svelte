@@ -19,6 +19,9 @@
             <li>
                 <a href="https://drive.google.com/file/d/1c4EBaiNDRmVfSo6iIaRmk7UYSBjDNfYG/view?usp=sharing" target="_blank">Base de datos ejemplo</a>
             </li>
+            <li>
+                <a href="https://cdn.cs50.net/sql/2023/x/lectures/0/src0/" target="_blank">Todo lo del curso</a>
+            </li>
         </ul>
     </div>
 </main>
